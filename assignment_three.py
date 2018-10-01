@@ -1,7 +1,7 @@
 # Jonathan Lin
 # Assignment Three
 # Use turtle and functions to draw plus signs and fill color in them
-# 9/28/2018
+# 10/1/2018
 
 import turtle
 
@@ -47,7 +47,8 @@ def draw_a_plus_sign(color, length):
 
 def draw_the_plus_sign_on_both_sides(color, length):
     """
-    The function uses color and length given by the user and moves the turtle to draw plus signs on both sides of the middle plus sign.
+    The function uses color and length given by the user
+    and moves the turtle to draw plus signs on both sides of the middle plus sign.
     The parameters are color and side length of plus signs.
     The function returns nothing.
     :param color: color obtained from the user's input to fill in the plus signs
